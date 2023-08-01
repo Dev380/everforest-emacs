@@ -5,7 +5,6 @@
 ;;;  Author: Theory_of_Everything <evan@theoryware.net>
 ;;;  Version: 0.1
 ;;;  Homepage: https://git.sr.ht/~theorytoe/everforest-theme
-;;;  Package-Requires: ((emacs "24"))
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
