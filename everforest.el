@@ -1,4 +1,4 @@
-;;; everforest.el --- Everforest Theme pack -*- lexical-binding: t; -*-
+;;; everforest.el --- Everforest Theme pack -*- lexical-binding: t -*-
 ;;
 ;; Copyright (C) 2022 Evan Sarris
 ;;
